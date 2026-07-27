@@ -77,7 +77,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lakshaygeek511&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true)
+!(https://github-readme-stats.vercel.app/api?username=lakshaygeek511&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshaygeek511&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 

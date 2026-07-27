@@ -57,7 +57,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </td>
-<td width="30%">
+<td width="37%">
 
 **Databases & Storage**
 

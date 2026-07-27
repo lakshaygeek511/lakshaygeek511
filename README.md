@@ -38,7 +38,7 @@
 
 <table>
 <tr>
-<td width="32%">
+<td width="34%">
 
 **Languages & Libraries**
 
@@ -47,7 +47,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </td>
-<td width="36%">
+<td width="38%">
 
 **Data Tools & BI**
 

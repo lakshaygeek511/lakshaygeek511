@@ -1,46 +1,46 @@
-<h1 align="center">Hi, I'm Lakshay Garg 👋</h1>[cite: 2]
+<h1 align="center">Hi, I'm Lakshay Garg 👋</h1>
 
-<h3 align="center">Data Analyst · Product Insights · SQL & Python Enthusiast</h3>[cite: 2]
+<h3 align="center">Data Analyst · Product Insights · SQL & Python Enthusiast</h3>
 
-<img align="right" alt="Data Analytics" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">[cite: 1]
+<img align="right" alt="Data Analytics" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
 
-- At **Yamaha Motors Solutions**: Data Analytics & Product Insights, optimizing production SQL queries, tracking dealership health trends, and building automated dashboards[cite: 2].
-- Building across data pipelines, exploratory data analysis, and interactive reporting using Python and Power BI[cite: 2]. Passionate about deep-diving into complex and financial datasets, evaluating technical trends, and spending late-night hours exploring insights. 
-- 1.5+ years of experience transforming operational and product data into actionable strategic business insights[cite: 2].
-- Ask me about: **Exploratory Data Analysis, SQL, Power BI, Python**[cite: 2]
-- Reach me: **lakshay.511garg@gmail.com**[cite: 2]
+- At **Yamaha Motors Solutions**: Data Analytics & Product Insights, optimizing production SQL queries, tracking dealership health trends, and building automated dashboards.
+- Building across data pipelines, exploratory data analysis, and interactive reporting using Python and Power BI. Passionate about deep-diving into complex and financial datasets, evaluating technical trends, and spending late-night hours exploring insights. 
+- 1.5+ years of experience transforming operational and product data into actionable strategic business insights.
+- Ask me about: **Exploratory Data Analysis, SQL, Power BI, Python**
+- Reach me: **lakshay.511garg@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-## Featured Projects[cite: 2]
+## Featured Projects
 
 | Project | Tech Stack | Key Impact | Links |
 |---------|------------|------------|-------|
-| **Amazon E-Commerce Analysis** | Power BI, MySQL, Excel | Built an interactive dashboard analyzing 113K+ transactions and identified a 50% YoY revenue spike. Delivered 10+ data-backed recommendations for inventory & acquisition strategy, evaluating geographic clusters and quality gaps.[cite: 2] | [Repo](https://github.com/lakshaygeek511/Amazon-E-Commerce-Analysis-Power-BI) |
-| **Meta Instagram Clone Analytics** | MySQL, SQL Workbench | Analyzed user engagement on 250+ posts, mapping activity from 9K likes & 7.5K comments. Projected a 4x marketing ROI uplift by successfully segmenting the top 10% of high-activity users.[cite: 2] | [Repo](https://github.com/lakshaygeek511/Meta-Instagram-Social-Media-Analysis-SQL) |
-| **Telecom Center IT Ticket Analysis** | Excel, Spreadsheets | Analyzed 100K tickets to evaluate agent performance, resolution efficiency, and customer satisfaction. Built a KPI dashboard pinpointing bottlenecks and driving operational mitigation.[cite: 2] | [Repo](https://github.com/lakshaygeek511/IT-Tickets-Analysis-Project-Ms-Excel) |
+| **Amazon E-Commerce Analysis** | Power BI, MySQL, Excel | Built an interactive dashboard analyzing 113K+ transactions and identified a 50% YoY revenue spike. Delivered 10+ data-backed recommendations for inventory & acquisition strategy, evaluating geographic clusters and quality gaps. | [Repo](https://github.com/lakshaygeek511/Amazon-E-Commerce-Analysis-Power-BI) |
+| **Meta Instagram Clone Analytics** | MySQL, SQL Workbench | Analyzed user engagement on 250+ posts, mapping activity from 9K likes & 7.5K comments. Projected a 4x marketing ROI uplift by successfully segmenting the top 10% of high-activity users. | [Repo](https://github.com/lakshaygeek511/Meta-Instagram-Social-Media-Analysis-SQL) |
+| **Telecom Center IT Ticket Analysis** | Excel, Spreadsheets | Analyzed 100K tickets to evaluate agent performance, resolution efficiency, and customer satisfaction. Built a KPI dashboard pinpointing bottlenecks and driving operational mitigation. | [Repo](https://github.com/lakshaygeek511/IT-Tickets-Analysis-Project-Ms-Excel) |
 
 ---
 
-## Experience & Education[cite: 2]
+## Experience & Education
 
 | Role / Certification | Organization | Details |
 |----------------------|--------------|---------|
-| **Associate Software Engineer** | Yamaha Motors Solutions | Authored 600+ production SQL queries and tracked 145+ dealerships. Prevented Rs.2 Cr in write-downs by engineering an Inventory Health Score dashboard based on DSI and turnover trends.[cite: 2] |
-| **Professional Certification in Data Science** | Newton School | Mastered Python (Pandas, NumPy, Matplotlib) to clean, manipulate, and visualize datasets. Built complex analytical reports via SQL, Excel, and Power BI.[cite: 2] |
-| **B.Tech (Computer Science)** | UPES | Graduated with 8.15/10.0. Strong foundation in software engineering, OOP, and data modeling.[cite: 2] |
+| **Associate Software Engineer** | Yamaha Motors Solutions | Authored 600+ production SQL queries and tracked 145+ dealerships. Prevented Rs.2 Cr in write-downs by engineering an Inventory Health Score dashboard based on DSI and turnover trends. |
+| **Professional Certification in Data Science** | Newton School | Mastered Python (Pandas, NumPy, Matplotlib) to clean, manipulate, and visualize datasets. Built complex analytical reports via SQL, Excel, and Power BI. |
+| **B.Tech (Computer Science)** | UPES | Graduated with 8.15/10.0. Strong foundation in software engineering, OOP, and data modeling. |
 
 ---
 
-## Tech Stack[cite: 1]
+## Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-**Languages & Libraries**[cite: 2]
+**Languages & Libraries**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -51,7 +51,7 @@
 </td>
 <td valign="top" width="33%">
 
-**Data Tools & BI**[cite: 2]
+**Data Tools & BI**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
@@ -61,7 +61,7 @@
 </td>
 <td valign="top" width="33%">
 
-**Databases & Storage**[cite: 2]
+**Databases & Storage**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -73,7 +73,7 @@
 
 ---
 
-## GitHub Stats[cite: 1]
+## GitHub Stats
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 
 ---
 
-## Connect[cite: 1]
+## Connect
 
 <p align="left">
 <a href="https://www.linkedin.com/in/lakshay-garg-0b0021194/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

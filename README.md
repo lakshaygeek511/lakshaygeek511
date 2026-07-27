@@ -17,7 +17,7 @@
 ## Featured Projects
 
 | Project | Tech Stack | Key Impact | Links |
-|-----------------|------------|------------|-------|
+|----------------------------------|------------|------------|-------|
 | **Amazon E-Commerce Analysis** | Power BI, MySQL, Excel | Built an interactive dashboard analyzing 113K+ transactions and identified a 50% YoY revenue spike. Delivered 10+ data-backed recommendations for inventory & acquisition strategy, evaluating geographic clusters and quality gaps. | [Repo](https://github.com/lakshaygeek511/Amazon-E-Commerce-Analysis-Power-BI) |
 | **Meta Instagram Clone Analytics** | MySQL, SQL Workbench | Analyzed user engagement on 250+ posts, mapping activity from 9K likes & 7.5K comments. Projected a 4x marketing ROI uplift by successfully segmenting the top 10% of high-activity users. | [Repo](https://github.com/lakshaygeek511/Meta-Instagram-Social-Media-Analysis-SQL) |
 | **Telecom Center IT Ticket Analysis** | Excel, Spreadsheets | Analyzed 100K tickets to evaluate agent performance, resolution efficiency, and customer satisfaction. Built a KPI dashboard pinpointing bottlenecks and driving operational mitigation. | [Repo](https://github.com/lakshaygeek511/IT-Tickets-Analysis-Project-Ms-Excel) |

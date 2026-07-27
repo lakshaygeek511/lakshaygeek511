@@ -1,118 +1,95 @@
-# Lakshay Garg
+<h1 align="center">Hi, I'm Lakshay Garg 👋</h1>[cite: 2]
 
-> **Data Analyst | SQL • Python • Excel • Power BI**
+<h3 align="center">Data Analyst · Product Insights · SQL & Python Enthusiast</h3>[cite: 2]
 
-<p align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380"/>
+<img align="right" alt="Data Analytics" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">[cite: 1]
+
+- At **Yamaha Motors Solutions**: Data Analytics & Product Insights, optimizing production SQL queries, tracking dealership health trends, and building automated dashboards[cite: 2].
+- Building across data pipelines, exploratory data analysis, and interactive reporting using Python and Power BI[cite: 2]. Passionate about deep-diving into complex and financial datasets, evaluating technical trends, and spending late-night hours exploring insights. 
+- 1.5+ years of experience transforming operational and product data into actionable strategic business insights[cite: 2].
+- Ask me about: **Exploratory Data Analysis, SQL, Power BI, Python**[cite: 2]
+- Reach me: **lakshay.511garg@gmail.com**[cite: 2]
+
+<br clear="right"/>
+
+---
+
+## Featured Projects[cite: 2]
+
+| Project | Tech Stack | Key Impact | Links |
+|---------|------------|------------|-------|
+| **Amazon E-Commerce Analysis** | Power BI, MySQL, Excel | Built an interactive dashboard analyzing 113K+ transactions and identified a 50% YoY revenue spike. Delivered 10+ data-backed recommendations for inventory & acquisition strategy, evaluating geographic clusters and quality gaps.[cite: 2] | [Repo](https://github.com/lakshaygeek511/Amazon-E-Commerce-Analysis-Power-BI) |
+| **Meta Instagram Clone Analytics** | MySQL, SQL Workbench | Analyzed user engagement on 250+ posts, mapping activity from 9K likes & 7.5K comments. Projected a 4x marketing ROI uplift by successfully segmenting the top 10% of high-activity users.[cite: 2] | [Repo](https://github.com/lakshaygeek511/Meta-Instagram-Social-Media-Analysis-SQL) |
+| **Telecom Center IT Ticket Analysis** | Excel, Spreadsheets | Analyzed 100K tickets to evaluate agent performance, resolution efficiency, and customer satisfaction. Built a KPI dashboard pinpointing bottlenecks and driving operational mitigation.[cite: 2] | [Repo](https://github.com/lakshaygeek511/IT-Tickets-Analysis-Project-Ms-Excel) |
+
+---
+
+## Experience & Education[cite: 2]
+
+| Role / Certification | Organization | Details |
+|----------------------|--------------|---------|
+| **Associate Software Engineer** | Yamaha Motors Solutions | Authored 600+ production SQL queries and tracked 145+ dealerships. Prevented Rs.2 Cr in write-downs by engineering an Inventory Health Score dashboard based on DSI and turnover trends.[cite: 2] |
+| **Professional Certification in Data Science** | Newton School | Mastered Python (Pandas, NumPy, Matplotlib) to clean, manipulate, and visualize datasets. Built complex analytical reports via SQL, Excel, and Power BI.[cite: 2] |
+| **B.Tech (Computer Science)** | UPES | Graduated with 8.15/10.0. Strong foundation in software engineering, OOP, and data modeling.[cite: 2] |
+
+---
+
+## Tech Stack[cite: 1]
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages & Libraries**[cite: 2]
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Data Tools & BI**[cite: 2]
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-316192?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Databases & Storage**[cite: 2]
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats[cite: 1]
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=lakshaygeek511&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshaygeek511&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+
+</div>
+
+---
+
+## Connect[cite: 1]
+
+<p align="left">
+<a href="https://www.linkedin.com/in/lakshay-garg-0b0021194/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/lakshaygeek511"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/garg_lakshay/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:lakshay.511garg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-## 👋 About Me
-
-- 📊 Data Analyst with **1.5+ years** of experience converting operational and product data into business insights.
-- 💼 Former **Associate Software Engineer – Data Analytics & Product Insights** at Yamaha Motors Solutions.
-- 🛠️ Skilled in **SQL, Python, Excel, Power BI, MySQL, PostgreSQL, Pandas, NumPy**.
-- 📈 Authored **600+ production SQL queries**.
-- 🚀 Reduced inventory ageing exposure by **17%**.
-- 📫 **lakshay.511garg@gmail.com**
-
----
-
-# Experience
-
-## Yamaha Motors Solutions (Jan 2023 – Aug 2024)
-
-- Authored 600+ SQL queries.
-- Built Inventory Health Dashboard.
-- Funnel Analysis on 3M+ dealer records.
-- RFM Analysis on 500K+ customers.
-
----
-
-# Featured Projects
-
-## Amazon E-Commerce Analysis
-
-GitHub:
-https://github.com/lakshaygeek511/Amazon-E-Commerce-Analysis-Power-BI
-
-- Power BI Dashboard
-- 113K+ Transactions
-- 44 Products
-- 50% YoY Revenue Growth
-
----
-
-## Meta Instagram Analysis
-
-GitHub:
-https://github.com/lakshaygeek511/Meta-Instagram-Social-Media-Analysis-SQL
-
-- MySQL
-- 9K Likes
-- 7.5K Comments
-- 4× projected ROI
-
----
-
-## Telecom IT Ticket Analysis
-
-GitHub:
-https://github.com/lakshaygeek511/IT-Tickets-Analysis-Project-Ms-Excel
-
-- 100K Tickets
-- Dashboard
-- KPI Reporting
-- Excel Analytics
-
----
-
-# Tech Stack
-
-### Languages
-
-- Python
-- SQL
-
-### BI
-
-- Power BI
-- Excel
-
-### Databases
-
-- MySQL
-- PostgreSQL
-
-### Libraries
-
-- Pandas
-- NumPy
-- Matplotlib
-
----
-
-# Certifications
-
-- Professional Certification in Data Science – Newton School
-- Oracle Certified Associate Java SE 8
-
----
-
-# GitHub Stats
-
-```md
-![Stats](https://github-readme-stats.vercel.app/api?username=lakshaygeek511&show_icons=true&theme=chartreuse-dark)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshaygeek511&theme=chartreuse-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaygeek511&layout=compact&theme=chartreuse-dark)
-```
-
----
-
-# Connect
-
-- LinkedIn: https://www.linkedin.com/in/lakshay-garg-0b0021194/
-- GitHub: https://github.com/lakshaygeek511
-- LeetCode: https://leetcode.com/u/garg_lakshay/
-- Email: lakshay.511garg@gmail.com

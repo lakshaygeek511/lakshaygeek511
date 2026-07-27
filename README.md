@@ -6,7 +6,7 @@
 - 🔭 I work as a **Data Analyst** with 1.5+ years of experience transforming operational and product data into actionable insights.
 - 🛠️ Specializing in **SQL, Python, Excel, and Power BI** for EDA, KPI reporting, and scalable data models.
 - 📈 Authored 600+ production SQL queries & reduced aging inventory exposure by 17% at Yamaha Motors.
-- 🧠 Strong foundation in Software Engineering, building reliable data pipelines and interactive dashboards.
+- 🧠 Strong foundation in Data Analysis, providing reliable data insights and interactive dashboards.
 - 📫 Reach me at: **lakshay.511garg@gmail.com**
 - ⚡ Fun fact: I love finding the story hidden in messy datasets!
 
@@ -114,7 +114,6 @@ Oracle (June 2023)<br>
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Data & BI**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -127,7 +126,6 @@ Oracle (June 2023)<br>
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
 **Libraries**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -140,7 +138,6 @@ Oracle (June 2023)<br>
 **Domain Skills**
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-20232A?style=flat-square&logo=tableau&logoColor=white)
 ![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-FF6F00?style=flat-square&logo=googleanalytics&logoColor=white)
-![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-2596BE?style=flat-square&logo=apacheairflow&logoColor=white)
 
 **Soft Skills**
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-8A2BE2?style=flat-square)

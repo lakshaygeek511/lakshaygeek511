@@ -16,7 +16,7 @@
 
 ## 🚀 Professional Experience
 
-**Associate Software Engineer — Data Analytics & Product Insights**  
+**Data Analytics & Product Insights**  
 *Yamaha Motors Solutions, Faridabad (Jan 2023 - Aug 2024)*
 - Authored 600+ production SQL queries across SQLite & PostgreSQL (YMDB) schemas for Connect-X iOS apps, optimizing complex joins and performing RCA on production crashes.
 - Mapped 145+ dealerships using SQL & Excel, building an Inventory Health Score dashboard that reduced aging inventory exposure by 17% and prevented Rs. 2 Cr in write-downs.
@@ -28,79 +28,72 @@
 ## 🏆 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Amazon E-Commerce Analysis</h3>
-<div align="center">
-<a href="https://github.com/lakshaygarg" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<p>
-Built an interactive Power BI dashboard analyzing 113K+ transactions across 44 products. Identified a ~50% YoY revenue spike in 2020 and located top 5 geographic clusters driving 70%+ of revenue. 
-</p>
-<ul>
-<li>Designed a DAX-driven customer tier (Bronze ➝ Platinum) revealing top 9% generate major revenue.</li>
-<li>Analyzed 31K returns in Health & Beauty and Fashion to flag quality gaps and improve supply chain.</li>
-</ul>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-</div>
-</td>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Amazon E-Commerce Analysis</h3>
+      <div align="center">
+        <a href="https://github.com/lakshaygeek511/Amazon-E-Commerce-Analysis-Power-BI" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <p>Built an interactive Power BI dashboard analyzing 113K+ transactions across 44 products. Identified a ~50% YoY revenue spike in 2020 and located top 5 geographic clusters driving 70%+ of revenue.</p>
+        <ul align="left">
+          <li>Designed a DAX-driven customer tier (Bronze ➝ Platinum) revealing top 9% generate major revenue.</li>
+          <li>Analyzed 31K returns in Health & Beauty and Fashion to flag quality gaps and improve supply chain.</li>
+        </ul>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+      </div>
+    </td>
 
-<td width="50%">
-<h3 align="center">Meta Instagram Clone Analysis</h3>
-<div align="center">
-<a href="https://github.com/lakshaygarg" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<p>
-Analyzed a 7-Entity Instagram Clone Dataset using MySQL across 100 users. Measured engagements on 250+ posts, deriving activity patterns from ~9K likes and 7.5K comments.
-</p>
-<ul>
-<li>Segmented the top 10% of users driving 60% of activity to project a 4x marketing ROI uplift.</li>
-<li>Optimized ad schedules for peak hours and recommended targeted ambassador programs.</li>
-</ul>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Workbench-00000F?style=flat-square&logoColor=white" />
-</div>
-</td>
-</tr>
+    <td width="50%">
+      <h3 align="center">Meta Instagram Clone Analysis</h3>
+      <div align="center">
+        <a href="https://github.com/lakshaygeek511/Meta-Instagram-Social-Media-Analysis-SQL" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <p>Analyzed a 7-Entity Instagram Clone Dataset using MySQL across 100 users. Measured engagements on 250+ posts, deriving activity patterns from ~9K likes and 7.5K comments.</p>
+        <ul align="left">
+          <li>Segmented the top 10% of users driving 60% of activity to project a 4x marketing ROI uplift.</li>
+          <li>Optimized ad schedules for peak hours and recommended targeted ambassador programs.</li>
+        </ul>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_Workbench-00000F?style=flat-square&logoColor=white" />
+      </div>
+    </td>
+  </tr>
 
-<tr>
-<td width="50%">
-<h3 align="center">Telecom Center IT Ticket Analysis</h3>
-<div align="center">
-<a href="https://github.com/lakshaygarg" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/lakshay-garg" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-FFA500?style=for-the-badge&logo=googlemeet&logoColor=black" alt="Demo"/></a>
-<p>
-Analyzed 100K IT tickets across 50 agents using Excel to evaluate agent performance, resolution efficiency, and customer satisfaction trends.
-</p>
-<ul>
-<li>Performed data cleaning and correction on 35K inconsistent classifications.</li>
-<li>Built an interactive dashboard summarizing ticket volume, bottlenecks, and workforce training recommendations.</li>
-</ul>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Spreadsheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
-</div>
-</td>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Telecom Center IT Ticket Analysis</h3>
+      <div align="center">
+        <a href="https://github.com/lakshaygeek511/IT-Tickets-Analysis-Project-Ms-Excel" target="_blank"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <p>Analyzed 100K IT tickets across 50 agents using Excel to evaluate agent performance, resolution efficiency, and customer satisfaction trends.</p>
+        <ul align="left">
+          <li>Performed data cleaning and correction on 35K inconsistent classifications.</li>
+          <li>Built an interactive dashboard summarizing ticket volume, bottlenecks, and workforce training recommendations.</li>
+        </ul>
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spreadsheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+      </div>
+    </td>
 
-<td width="50%">
-<h3 align="center">Certifications & Education</h3>
-<div align="center">
-<p>
-<b>B.Tech in Computer Science</b><br>
-UPES (2019 - 2023) | Grade: 8.15/10.0
-</p>
-<p>
-<b>Professional Certification in Data Science</b><br>
-Newton School (Nov 2025)<br>
-<i>Python, Pandas, NumPy, Matplotlib, SQL, Power BI</i>
-</p>
-<p>
-<b>Oracle Certified Associate Java SE 8</b><br>
-Oracle (June 2023)<br>
-<i>Java 8 & 11, JDK, J2EE, Lambda Expressions</i>
-</p>
-</div>
-</td>
-</tr>
+    <td width="50%">
+      <h3 align="center">Certifications & Education</h3>
+      <div align="center">
+        <p align="left">
+          <b>B.Tech in Computer Science</b><br>
+          UPES (2019 - 2023) | Grade: 8.15/10.0
+        </p>
+        <p align="left">
+          <b>Professional Certification in Data Science</b><br>
+          Newton School (Nov 2025)<br>
+          <i>Python, Pandas, NumPy, Matplotlib, SQL, Power BI</i>
+        </p>
+        <p align="left">
+          <b>Oracle Certified Associate Java SE 8</b><br>
+          Oracle (June 2023)<br>
+          <i>Java 8 & 11, JDK, J2EE, Lambda Expressions</i>
+        </p>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -108,8 +101,8 @@ Oracle (June 2023)<br>
 ## 🛠️ Tech Stack
 
 <table>
-<tr>
-<td valign="top" width="33%">
+  <tr>
+    <td valign="top" width="33%">
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -120,8 +113,8 @@ Oracle (June 2023)<br>
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Spreadsheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+    </td>
+    <td valign="top" width="33%">
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -132,8 +125,8 @@ Oracle (June 2023)<br>
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11579C?style=flat-square&logo=matplotlib&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+    </td>
+    <td valign="top" width="33%">
 
 **Domain Skills**
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-20232A?style=flat-square&logo=tableau&logoColor=white)
@@ -144,16 +137,29 @@ Oracle (June 2023)<br>
 ![Research](https://img.shields.io/badge/Research-4682B4?style=flat-square)
 ![Teamwork](https://img.shields.io/badge/Teamwork-228B22?style=flat-square)
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=lakshaygeek511&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshaygeek511&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+
+</div>
+
 ---
 
 ## 📫 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/lakshay-garg"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/lakshay-garg"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://github.com/lakshaygarg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:lakshay.511garg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lakshay-garg-0b0021194/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/garg_lakshay/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://github.com/lakshaygeek511"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:lakshay.511garg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>

@@ -60,6 +60,7 @@
 <td width="34%">
 
 **Databases & Storage**
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PGAdmin](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
